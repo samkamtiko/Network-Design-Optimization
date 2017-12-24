@@ -1,4 +1,4 @@
-# Cost-Optimization-for-Network-Design
+# Network-Design-Optimization
 The objective of the project is to generate a network topology, with capacities assigned to the links, according to the studied model, using the shortest path based fast solution method i.e Dijkstra’s shortest path algorithm. The program also computes the total cost of the designed network .
 The project is an application to network design. In this project, the number of nodes is given as the input (N) along with the traffic demand values (bij) between pairs of
 nodes, and the unit cost values for the potential links (aij).  . The agenda of this project is to design a network given the number of nodes and cost of the link between
